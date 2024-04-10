@@ -7,6 +7,11 @@
 - 注释掉ssl相关代码 `CertificatePinner` in `OkHttpClientHelper`
 - 启用 WebView 的 JavaScript 在 `OAuthActivity`
 
+```
+// [jitpack.io](https://jitpack.io/)
+implementation 'com.fanhl:twitter-core:3.4.0-20240105.074650-1'
+```
+
 
 **Twitter will be discontinuing support for Twitter Kit on October 31, 2018. [Read the blog post here](https://blog.twitter.com/developer/en_us/topics/tools/2018/discontinuing-support-for-twitter-kit-sdk.html).**
 
