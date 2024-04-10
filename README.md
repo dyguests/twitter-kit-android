@@ -8,7 +8,7 @@
 - 启用 WebView 的 JavaScript 在 `OAuthActivity`
 
 ```
-// [jitpack.io](https://jitpack.io/)
+// https://jitpack.io/
 implementation 'com.fanhl:twitter-core:3.4.0-20240105.074650-1'
 ```
 
